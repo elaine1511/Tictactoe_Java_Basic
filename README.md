@@ -16,7 +16,7 @@
 4. Java Arrays:
 - Single Dimensional Array
 - Multidimensional Array
-4. How to use binary flags 
+5. How to use binary flags 
 
 
 
